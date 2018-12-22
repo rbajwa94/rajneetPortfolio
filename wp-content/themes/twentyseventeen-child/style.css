@@ -12,24 +12,24 @@ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 .site-info {
 	display: none;
 }
-.entry-title{
-	color: pink;
+.entry-header{
+	display: none;
 }
 /* label {
 	color: pink;
 } */
 .wpcf7-submit {
-	color: pink;
+	color: grey;
 }
 .menu a:hover{
-	color:pink;
+	color:grey;
 }
 .icon-angle-down use:hover{
-	background-color:pink;
+	background-color:grey;
 	color:black;
 }
 p {
-    color: pink;
+    color: grey;
     font-family: "PT Serif";
  }
  .site-title {
